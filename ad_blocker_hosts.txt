@@ -1,4 +1,4 @@
-tracking.ads.honor.com
-adplatform-drcn.hihonorcdn.com
-metrics-ad-drcn.dt.hihonorcloud.com
-ads-drcn.platform.hihonorcloud.com
+0.0.0.0 tracking.ads.honor.com
+0.0.0.0 adplatform-drcn.hihonorcdn.com
+0.0.0.0 metrics-ad-drcn.dt.hihonorcloud.com
+0.0.0.0 ads-drcn.platform.hihonorcloud.com
