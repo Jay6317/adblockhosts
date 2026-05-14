@@ -1,0 +1,4 @@
+tracking.ads.honor.com
+adplatform-drcn.hihonorcdn.com
+metrics-ad-drcn.dt.hihonorcloud.com
+ads-drcn.platform.hihonorcloud.com
