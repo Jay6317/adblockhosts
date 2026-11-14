@@ -1,3 +1,5 @@
+ads-drcn.platform.hihonorcloud.com
+
 api-access.pangolin-sdk-toutiao.com
 toblog.ctobsnssdk.com
 sf3-fe-tos.pglstatp-toutiao.com
