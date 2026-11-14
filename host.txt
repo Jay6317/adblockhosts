@@ -16,6 +16,7 @@ webcast-open.douyin.com
 guid.tpns.tencent.com
 a1e9771b46e437430b68ac119260b077.rdt.tfogc.com
 tnc0-alisc1.zijieapi.com
+tnc3-bjlgy.zijieapi.com
 log.snssdk.com
 log.zijieapi.com
 webcast5-open-lq.douyin.com
